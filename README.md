@@ -4,7 +4,7 @@ Add a classic Tic Tac Toe game to your WordPress website.
 
 ## Features
 
-- Play against a friend or an intelligent bot.
+- Play against an intelligent bot.
 - Smart bot using the minimax algorithm.
 - Keep track of scores for Player X and Player O.
 - Reset the game with a "Play Again" button.
