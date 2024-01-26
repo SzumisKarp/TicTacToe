@@ -3,7 +3,7 @@
 Plugin Name: Tic Tac Toe
 Description: Simple Tic Tac Toe game for WordPress.
 Version: 0.1.7
-Author: Your Name
+Author: <a href="https://t.ly/duzp9">SzumisKarp</a>
 */
 
 // Add scripts and styles
